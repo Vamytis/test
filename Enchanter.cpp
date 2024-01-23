@@ -5,8 +5,6 @@
 ** Day 08
 */
 
-#include "Knight.hpp"
-#include "Peasant.hpp"
 #include "Enchanter.hpp"
 
 Enchanter :: Enchanter(const std::string &name, int power) : Peasant (name, power)

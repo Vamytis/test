@@ -6,7 +6,6 @@
 
 #include <iostream>
 #include <string>
-#include "Peasant.hpp"
 #include "Enchanter.hpp"
 #ifndef PRIEST_HPP
     #define PRIEST_HPP
